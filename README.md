@@ -2,7 +2,10 @@
  flutter quiz app using Router and Singleton pattern:
  
  To change questions and answers, add or change values on file initial_test_values.dart:
- '''dart
+ 
+ 
+```
+ 
   final List<InitialTest> initialTestQuestions = new List();
   initialTestQuestions.add(InitialTest(
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
@@ -24,7 +27,8 @@
       {1: "Answer 1", 2: "Answer 2", 3: "Answer 3", 4: "Answer 4", 5: "Answer 5"},
       1, "Question 4"));
  
- '''dart
+```
+
  
  <img src="https://github.com/umbertho/it_career_01/blob/master/Untitled.png">
  
