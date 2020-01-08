@@ -1,4 +1,4 @@
-# it_career_01
+# Flutter quiz App
  flutter quiz app using Router and Singleton pattern:
  
  To change questions and answers, add or change values on file initial_test_values.dart:
